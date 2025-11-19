@@ -1,7 +1,5 @@
 # 👥 **HR Salary Analysis & Employee Performance Dashboard**
-
 ![HR Picture](https://media1.thehungryjpeg.com/thumbs2/ori_3751645_p4qmifwig7g3aoo6ghfwokgxkc5n1uiuxzux10ke_hr-human-resources-minimal-infographic-banner-vector.jpg)
-
 ## 📁 Overview
 The **HR Salary Analysis Dataset** consists of 650 cleaned employee records containing demographic details, job roles, compensation, experience, and performance metrics. This dataset powers an interactive Power BI dashboard designed to provide insights into workforce distribution, salary patterns, performance, and HR-related KPIs.
 
