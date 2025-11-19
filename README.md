@@ -30,7 +30,13 @@ The dashboard delivers a comprehensive view of HR and compensation analytics thr
 ### **5. Interactive Filters**
 - Location filter  
 - Department filter  
-- Experience slider for dynamic analysis  
+- Experience slider for dynamic analysis
+  
+### **Dashboard 1 -
+![HR Picture](https://github.com/sapnagangad/HR_Salary_Analysis/blob/main/Dashboards/Sales%20%26%20Profit%20Overview.png)
+
+### **Dashboard 2 -
+![HR Picture](https://github.com/sapnagangad/HR_Salary_Analysis/blob/main/Dashboards/Employee%20Performance%20%26%20Compensation%20Analytics.png)
 
 ## ⭐ Key Features of the Dataset
 - 650 complete employee profiles  
